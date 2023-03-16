@@ -86,9 +86,9 @@ export default function Form(props) {
 
         <p>
           {" "}
-          {name.split(" ").length} words and {name.length} character
+          {name.split(" ").filter((element)=>{return element.length!===0}).length} words and {name.length} character
         </p>
-        <p>{0.008 * name.split(" ").length} Minutes Read</p>
+        <p>{0.008 * name.split(" ").filter((element)=>{return element.length!===0}).length} Minutes Read</p>
         <h2>Preview</h2>
         <p>{name.length>0?name:'Enter something in the textbox to preview it here..'}</p>
       </div>
