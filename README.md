@@ -18,7 +18,6 @@ TextUtils is a text utility which can be used to manipulate your text in the way
 ## :fire: Features
 🔡 Change uppercase text to lowercase.<br>
 🔠 Change lowercase text to uppercase.<br>
-🡺 🡸 Remove Extra Space.<br>
 📋 Copy text to clipboard.<br>
 🧮 Last but not the least, get the count of words and characters in your text.<br>
 
