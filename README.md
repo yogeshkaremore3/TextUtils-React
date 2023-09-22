@@ -30,14 +30,6 @@ TextUtils is a text to audio converter and a text utility which can be used to m
 
 ⚛️ [**REACTJS**](https://reactjs.org/)<br><br>
 ![xyz](/public/bootstrap.jpg)&nbsp;[**BOOTSTRAP**](https://getbootstrap.com/)<br><br>
-![xyz](/public/netlify.jpg)&ensp;[**NETLIFY**](https://www.netlify.com/)<br>
-
----
-
-
-## :heart: Found this project interesting?
-
-If you found this project useful, then please consider giving it a :star: on Github and sharing it with your friends via social media.
 
 ---
 
