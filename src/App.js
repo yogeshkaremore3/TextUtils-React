@@ -75,7 +75,7 @@ function App() {
             
           {/* <Route exact path="/" element={<Form heading="enter text to analyze below" mode={mode} show_alert={show_alert} />}/> */}
 
-          <Form heading="enter text to analyze below" mode={mode} show_alert={show_alert} />
+          <Form heading="Enter text to analyze below" mode={mode} show_alert={show_alert} />
         
       {/* </Routes> */}
 
