@@ -9,9 +9,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 #  🗒️ :speech_balloon: [TEXTUTILS](https://utilstext.netlify.app/)
 
-TextUtils is a text to audio converter and a text utility which can be used to manipulate your text in the way you want.
+TextUtils is a text utility which can be used to manipulate your text in the way you want.
 
-**TRY HERE:** https://utilstext.netlify.app/
+**TRY HERE:** https://yogeshkaremore3.github.io/TextUtils-React/
 
 ---
 
